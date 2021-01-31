@@ -5,3 +5,5 @@ We applied Wordfish to estimate document scores that later serve as dependent va
 The goal is to learn time-based topics without requiring a time frame to be set.
 
 The number of topics could be increased to unfold potential hidden structures in the corpus.
+
+Example of application: State Of The Union (SOTU) addresses (1853-2019).
