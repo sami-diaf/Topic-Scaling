@@ -1,4 +1,4 @@
-# Topic-Scaling
+# Topic Scaling
 Learning time-based topics by combining document scaling and supervised topic models.
 
 We applied Wordfish to estimate document scores that later serve as dependent variable for supervised Latent Dirichlet Allocation.
