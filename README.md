@@ -8,4 +8,4 @@ The number of topics could be increased to unfold potential hidden structures in
 
 Example of application: State Of The Union (SOTU) addresses (1853-2019).
 
-dtm_sotu.py gives estimates a Dynamic Topic Model (DTM) **http://www.cs.columbia.edu/~blei/papers/BleiLafferty2006a.pdf** on the SOTU corpus. Two topics are learned for each time frame (decade)
+dtm_sotu.py gives estimates a Dynamic Topic Model (DTM) [Link](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2006a.pdf) on the SOTU corpus. Two topics are learned for each time frame (decade)
